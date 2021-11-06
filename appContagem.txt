@@ -1,0 +1,5 @@
+Saber o total do número de alunos.
+    Percorrer a lista de 0 até o número total de alunos.
+        Se tiver 0 alunos escreva "ZERO".
+        Se o número de alunos for ímpar ecreva "ÍMPAR" e mostre a quantidade de alunos.
+        Se o número de alunos for par ecreva "PAR" e mostre a quantidade de alunos.
